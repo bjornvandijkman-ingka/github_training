@@ -1,2 +1,3 @@
 Add a first line
 This is our new functionality.
+Our third line.
