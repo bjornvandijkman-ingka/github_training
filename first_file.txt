@@ -4,3 +4,4 @@ Well this is going to cause some conflicts. Our third line.
 Write a fourth line of code.
 This is our fourth line
 This is my 6h line of code.
+What about another file?
