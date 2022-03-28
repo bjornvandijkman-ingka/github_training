@@ -2,3 +2,4 @@ This is a third file.
 Adding second line to the third file.
 Adding a fourth line.
 Adding a sixth line
+Add a fifth line. Fixing this line.
