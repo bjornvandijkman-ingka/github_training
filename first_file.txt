@@ -2,3 +2,4 @@ Add a first line
 This is our new functionality.
 Well this is going to cause some conflicts. Our third line.
 Write a fourth line of code.
+This is our fourth line
