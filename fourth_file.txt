@@ -1,1 +1,2 @@
 Well hello, this is a fourth feature.
+This is my rebase feature
